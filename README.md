@@ -1,6 +1,7 @@
 # Kurgan
 
-This is a python markdown editor I made. it supports Headers, bold font, italic and also supports links and evalutaion of python code.
+This is a python markdown editor I made. It supports essential markdown features such as Headers, bold font, italic. Additionally it also supports website links and evalutaion of python code.
+Also on the right side are permanent notes. This features was meant for TODO lists or something where it would be useful to see it all the time.
 
 # Pictures
 
